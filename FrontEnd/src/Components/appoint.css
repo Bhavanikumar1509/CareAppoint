@@ -1,0 +1,43 @@
+table {
+    
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid rgb(3, 37, 43);
+    border-width: 2px;
+  }
+  
+  th {
+    background-color: #06afe2;
+  }
+  label {
+    display: block;
+    margin-bottom: 8px;
+    text-align: center;
+    padding:2px;
+    color:crimson;
+    text-decoration-line: underline;
+    font-weight: 500;
+  }
+
+  button{
+    display: block;
+    margin: 0 auto;
+  }
+
+  select {
+    
+    display: block;
+    padding: 8px;
+    margin: 0 auto;
+    padding: 3px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    
+  }
+  

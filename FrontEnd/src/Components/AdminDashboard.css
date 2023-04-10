@@ -1,0 +1,20 @@
+.doctors-container{
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.doctors-container .profile{
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.doctors-container .profile img{
+    width: 100%;
+}

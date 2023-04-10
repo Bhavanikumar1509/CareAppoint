@@ -1,0 +1,72 @@
+.homepage {
+    background-image: url('hospital-background.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .app-name {
+    font-size: 3rem;
+    color: #fff;
+    text-shadow: 2px 2px 2px #000;
+    margin-bottom: 2rem;
+  }
+  
+  .button-container {
+    display: flex;
+    flex-direction: row;
+    margin: 2rem;
+    position: absolute;
+  top: 0;
+  right: 0;
+  }
+  
+  .login-button {
+    background-color: #fff;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 1rem 2rem;
+    margin: 0 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+    box-shadow: 2px 2px 2px #999;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  
+  .login-button:hover {
+    transform: translateY(-5px);
+  }
+  
+  .admin {
+    background-color: #f39c12;
+  }
+  
+  .patient {
+    background-color: #bae2fc;
+  }
+  
+  .doctor {
+    background-color: #2ecc71;
+  }
+  
+.app-name{
+    color: darkmagenta;
+    font-size: 3rem;
+  text-shadow: 2px 2px 2px #000;
+  margin: 2rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.student{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-weight: 700;
+    color: rgb(133, 132, 132);
+}
