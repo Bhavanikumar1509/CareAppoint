@@ -2,7 +2,6 @@
 ## Description
 This project is a web application called "Care Appoint" that allows users to book appointments with healthcare providers.
 This Project is a part of my internship at Wiley Edge.
-This project is Guided by Yerraam Sneha mam.
 
 ## Technologies Used
 - Spring Boot framework
